@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Shayne Sebro 
 
-<!--
-**snsebro/snsebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Engineer*
 
-Here are some ideas to get you started:
+I’m a creative, collaborative, and thoughtful software engineer with a diverse range of experiences that have taught me to combine strong aesthetic vision with the practical application of technology stacks to create apps that are scalable, efficient, and visually stimulating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a lifetime learner I look forward broadening my skill sets with each project I take on and always remain open to new challenges. 
+
+* Frontend: HTML, CSS, Javascript, React.js, Ruby
+* Backend: MongoDB, Express.js, Mongoose, Node.js, Ruby on Rails, SQL
+
+#### You can also find me here:
+[Personal Site](http://shaynesebro.surge.sh/)
+
+[LinkedIn](https://www.linkedin.com/in/shaynesebro/)
