@@ -8,6 +8,7 @@ As a lifetime learner I look forward to broadening my skill sets with each proje
 
 * Frontend: HTML, CSS, Javascript, React.js, Ruby
 * Backend: MongoDB, Express.js, Mongoose, Node.js, Ruby on Rails, SQL
+* Design: Adobe XD, Adobe Illustrator, Adobe Photoshop, Figma, Zeplin
 
 #### You can also find me here:
 [Personal Site](http://shaynesebro.surge.sh/)
