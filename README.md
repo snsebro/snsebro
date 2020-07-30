@@ -11,6 +11,6 @@ As a lifetime learner I look forward to broadening my skill sets with each proje
 * Design: Adobe XD, Adobe Illustrator, Adobe Photoshop, Figma, Zeplin
 
 #### You can also find me here:
-[Personal Site](http://shaynesebro.surge.sh/)
+[Personal Site](https://shaynesebro.netlify.app)
 
 [LinkedIn](https://www.linkedin.com/in/shaynesebro/)
