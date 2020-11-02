@@ -7,7 +7,7 @@ I’m a creative, collaborative, and thoughtful software engineer with a diverse
 As a lifetime learner I look forward to broadening my skill sets with each project I take on and always remain open to new challenges. 
 
 * Frontend: HTML, CSS, Javascript, React.js, Ruby
-* Backend: MongoDB, Express.js, Mongoose, Node.js, Ruby on Rails, SQL
+* Backend: MongoDB, Express.js, Mongoose, Node.js, Ruby on Rails, Firebase, SQL
 * Design: Adobe XD, Adobe Illustrator, Adobe Photoshop, Figma, Zeplin
 
 #### You can also find me here:
